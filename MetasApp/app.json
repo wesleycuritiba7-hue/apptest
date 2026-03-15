@@ -23,6 +23,11 @@
       "bundleIdentifier": "com.metasapp.tracker",
       "supportsTablet": false
     },
-    "plugins": []
+    "plugins": [],
+    "extra": {
+      "eas": {
+        "projectId": "a6742fb4-3315-4828-b23c-97d4fd4b8309"
+      }
+    }
   }
 }
